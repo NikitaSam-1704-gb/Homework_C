@@ -1,0 +1,15 @@
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\bin\Debug\net6.0\Homework_1.exe
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\bin\Debug\net6.0\Homework_1.deps.json
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\bin\Debug\net6.0\Homework_1.runtimeconfig.json
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\bin\Debug\net6.0\Homework_1.dll
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\bin\Debug\net6.0\Homework_1.pdb
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.csproj.AssemblyReference.cache
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.AssemblyInfoInputs.cache
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.AssemblyInfo.cs
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.dll
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\refint\Homework_1.dll
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.pdb
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\Homework_1.genruntimeconfig.cache
+C:\Users\Никита\Documents\ГикБрейнс\Обучение\Основное обучение\Знакомство с языком С#\Seminar_work\Homework_1\obj\Debug\net6.0\ref\Homework_1.dll
