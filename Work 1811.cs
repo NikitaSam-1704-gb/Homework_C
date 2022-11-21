@@ -3,3 +3,4 @@
 
 //int sq = number*number;
 //Console.WriteLine(sq) ;
+// Проблеммы с точкой входа !!!!

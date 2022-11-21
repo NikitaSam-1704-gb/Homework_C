@@ -1,4 +1,5 @@
-﻿//int number = Convert.ToInt32(Console.ReadLine());
+﻿int number = Convert.ToInt32(Console.ReadLine());
 
-//int sq = number*number;
-//Console.WriteLine(sq) ;
+int sq = (int)Math.Pow(number, 3) ;
+
+Console.WriteLine(sq) ;
