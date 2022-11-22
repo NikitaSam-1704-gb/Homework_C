@@ -45,10 +45,25 @@
 
 
 // Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
-Console.WriteLine("Введите число ");
-int num = Convert.ToInt32(Console.ReadLine());
-if (num%2==0)
- Console.WriteLine($" чило {num} четное ") ;
-else
-  Console.WriteLine($" чило {num} нечетное ") ;
+//Console.WriteLine("Введите число ");
+//int num = Convert.ToInt32(Console.ReadLine());
+//if (num%2==0)
+// Console.WriteLine($" чило {num} четное ") ;
+//else
+//  Console.WriteLine($" чило {num} нечетное ") ;
 
+
+//Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N
+ Console.WriteLine("Введите число, количество элементов натурального множества") ;
+ int num = Convert.ToInt32(Console.ReadLine()) ;
+ int i=1 ;
+ Console.Write(" четные числа данного множества") ;
+while ( i<=num ) {
+
+  if (i%2==0)
+  {
+   Console.Write($" {i} ") ;
+  }
+  i++ ;
+ }
+ Console.WriteLine() ;
